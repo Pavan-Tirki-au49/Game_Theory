@@ -1,0 +1,53 @@
+text,label
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+"I will do business",1
+
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+"50-50 choice",1
+
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+"I won't do business",0
+
+"Interested in business",1
+"Very much interested in business",1
+"We want to proceed with business",1
+"Ready to collaborate",1
+"Happy to start business partnership",1
+"Yes, we will do business",1
+"Open to doing business",1
+"Interested to work together",1
+"Willing to do business",1
+
+"Not interested in business",0
+"We are not interested to work with you",0
+"We refuse to do business",0
+"No, we are not ready",0
+"Decline the business proposal",0
+"Not willing to work with you",0
+"We reject the business offer",0
+"Business collaboration not possible",0
+"Business is cancelled from our side",0
